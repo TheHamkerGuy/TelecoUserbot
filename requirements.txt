@@ -1,0 +1,6 @@
+Telethon==1.38.1
+time
+subprocess
+pillow==11.0.0
+os
+googletrans==3.0.0
