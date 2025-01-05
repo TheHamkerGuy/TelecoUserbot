@@ -5,8 +5,8 @@ from PIL import Image
 import os
 from googletrans import Translator
 
-api_id = 16245046
-api_hash = "b5a4cc89f1abd9c9e62c54548da4d2d2"
+api_id = # enter your own api id from my.telegram.org
+api_hash = "" # enter your own api hash from my.telegram.org
 
 teleco = TelegramClient("Teleco", api_id=api_id, api_hash=api_hash)
 
